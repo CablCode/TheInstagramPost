@@ -1,0 +1,67 @@
+body {
+    background-color: #F1F1F1;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+  margin-bottom:5% ;
+  height: 50%;
+  background-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+p {
+    font-size: 0.9rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.headerCard {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    margin: auto;    
+}
+
+.htmlLogo {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.dots {
+    margin-left: auto;
+    margin-right: 10px;
+    color: grey;
+}
+
+.firstIcon {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.icons {
+    margin-right: 10px;
+}
+
+.lastIcon {
+    margin-left: auto;
+    margin-right: 15px;
+}
